@@ -1,3 +1,7 @@
 body {
   color: black;
 }
+
+.btn {
+  border-radius: 0em;
+}
